@@ -16,7 +16,7 @@
 
 # IOT TEMPERATURE, PRESSURE AND HUMIDITY 
 
-_This is a short description about the content of my proyect. In this project I create a template that you can send in an e-mail.This template was created using **_HMTL_** _and_ **_CSS_** also this template is responsive with your screen of your devices._
+_This is a short description about the content of my project. In this project I read three sensors one of temperature, another of humidity and finally one of pressure. We can talk about this sensors in the next lines. So this values of variables measured are send to the cloud, and we can see this data en the server of thingspeak that provide MATLAB for IOT Analytics, you can see all the information in the server and read that information._
 
 ## Getting Started🚀
 
