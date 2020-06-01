@@ -1,0 +1,32 @@
+import Adafruit_DHT
+import Adafruit_BMP.BMP085 as BMP08
+DHT_SENSOR = Adafruit_DHT.DHT22
+DHT_PIN = 4
+
+while True:
+    humidity, temperature = Adafruit_DHT.read_retry(DHT_SENSOR, DHT_PIN)
+
+    if humidity is not None and temperature is not None:
+        print("Temp={0:0.1f}*C  Humidity={1:0.1f}%".format(temperature, humidity))
+	bmp = BMP085(0x77)
+	 
+	 
+	temp = bmp.readTemperature()
+	 
+	# Read the current barometric pressure level
+	pressure = bmp.readPressure()
+	 
+	# To calculate altitude based on an estimated mean sea level pressure
+	# (1013.25 hPa) call the function as follows, but this won't be very accurate
+	altitude = bmp.readAltitude()
+	 
+	# To specify a more accurate altitude, enter the correct mean sea level
+	# pressure level.  For example, if the current pressure level is 1023.50 hPa
+	# enter 102350 since we include two decimal places in the integer value
+	# altitude = bmp.readAltitude(102350)
+	 
+	print "Temperature: %.2f C" % temp
+	print "Pressure:    %.2f hPa" % (pressure / 100.0)
+	print "Altitude:    %.2f" % altitude
+    else:
+        print("Failed to retrieve data from humidity sensor")
