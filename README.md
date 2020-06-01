@@ -14,7 +14,7 @@
   </a>
 </p>
 
-# TEMPLATE FOR AN EMAIL 
+# IOT TEMPERATURE, PRESSURE AND HUMIDITY 
 
 _This is a short description about the content of my proyect. In this project I create a template that you can send in an e-mail.This template was created using **_HMTL_** _and_ **_CSS_** also this template is responsive with your screen of your devices._
 
