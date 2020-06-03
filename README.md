@@ -86,28 +86,28 @@ _The software that you need is:_
  _You can see the next window:_
  
  <p align="center">
-    <img width="300" height="200" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/08/rc_cmd_main_interfacing.png" alt="Logo">
+    <img width="600" height="300" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/08/rc_cmd_main_interfacing.png" alt="Logo">
 </p>
 
 _Select the line in red and you can see the I2C option that you need enabled:_
 
  <p align="center">
-    <img width="300" height="200" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/11/rc_cmd_interfacing_i2c.png" alt="Logo">
+    <img width="600" height="300" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/11/rc_cmd_interfacing_i2c.png" alt="Logo">
 </p>
 
 _Enter in Yes_
  <p align="center">
-    <img width="300" height="200" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/11/rc_cmd_interfacing_i2c.png" alt="Logo">
+    <img width="400" height="300" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/11/rc_cmd_i2c_1.png" alt="Logo">
 </p>
 
 _Enter in OK_
  <p align="center">
-    <img width="300" height="200" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/11/rc_cmd_interfacing_i2c.png" alt="Logo">
+    <img width="400" height="300" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/11/rc_cmd_i2c_2.png" alt="Logo">
 </p>
 
 _And Finally you reboot the system:_
  <p align="center">
-    <img width="300" height="200" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/11/rc_cmd_interfacing_i2c.png" alt="Logo">
+    <img width="400" height=300" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/08/rc_cmd_reboot.png" alt="Logo">
 </p>
 
 ## Running the tests ⚙️
