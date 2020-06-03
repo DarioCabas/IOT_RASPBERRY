@@ -35,6 +35,17 @@ _The hardware that you need is:_
     <img src="https://www.redeszone.net/app/uploads-redeszone.net/2019/05/Raspberry-Pi-Zero-con-GPIO.jpg" alt="Logo">
 
 </p>
+
+```
+  Barometric Pressure Sensor BMP085
+```
+<p align="center">
+    <img width="400" height="300" src="https://cdn-shop.adafruit.com/1200x900/391-00.jpg" alt="Logo">
+
+</p>
+
+```
+```
 ### Installing🔧
 
 #### Clone
@@ -59,7 +70,7 @@ _The hardware that you need is:_
 _If you want, you can use an editor of code with a live server and you can see the changes at the same time when you save the project:_
 
 <p align="center">
-    <img src="http://g.recordit.co/TtbT6sYqv5.gif" alt="Logo">
+    <img width="100" height="100" src="http://g.recordit.co/TtbT6sYqv5.gif" alt="Logo">
 </p>
 
 ## Built With🛠️
