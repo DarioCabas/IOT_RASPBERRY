@@ -114,7 +114,7 @@ _And Finally you reboot the system:_
 
 **Sensors connected to the raspberry**
  <p align="center">
-    <img width="500" height="400" src="img/raspberry.jpeg" alt="Logo">
+    <img width="650" height="400" src="img/raspberry.jpg" alt="Logo">
 </p>
 
 
@@ -131,11 +131,19 @@ _And Finally you reboot the system:_
 
 ## Deployment📦
 
-_If you want, you can use an editor of code with a live server and you can see the changes at the same time when you save the project:_
+_For the crontan that we use to run the envio.py file, you can access to this with the following line:_
 
-<p align="center">
-    <img width="100" height="100" src="/img" alt="Logo">
-</p>
+
+```
+  crontab -e
+```
+
+_And in this project I use in the linux environment the next line for run the envio.py in the crontab_
+
+```
+  */5 * * * * cd Desktop && /usr/bin/python envio.py
+```
+
 
 ## Built With🛠️
 
@@ -146,7 +154,7 @@ _If you want, you can use an editor of code with a live server and you can see t
 
 ## Authors✒️
 
-* **Dario Cabascango** - *Initial work* - [TEMPLATE_EMAIL](https://github.com/DarioCabas)
+* **Dario Cabascango** - *Initial work* - [IOT_RASPBERRY](https://github.com/DarioCabas)
 
 
 ## License📄
@@ -162,7 +170,7 @@ _If you want, you can use an editor of code with a live server and you can see t
 
 _Dario Cabascango_  - _hz-hertzio@hotmail.com_ 
 
-_Project Link:_ _[https://github.com/DarioCabas/TEMPLATE_EMAIL](https://github.com/DarioCabas/TEMPLATE_EMAIL)_
+_Project Link:_ _[https://github.com/DarioCabas/IOT_RASPBERRY](https://github.com/DarioCabas/IOT_RASPBERRY)_
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
