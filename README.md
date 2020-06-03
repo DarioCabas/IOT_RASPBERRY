@@ -58,10 +58,10 @@ _The software that you need is:_
   Raspbian
 ```
 _If you need more information about it, follow the next link:_
+<p align="center">
+    <a href="https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/1">Raspbian</a>
+</p>
 
-```
-  https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/1
-```
 
 
 ### Installing🔧
