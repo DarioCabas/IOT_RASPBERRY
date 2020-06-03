@@ -55,20 +55,60 @@ Temperature and humidity sensor - DHT22
 _The software that you need is:_ 
 
 ```
-  Raspbian
+  -Raspbian
 ```
-_If you need more information about it, follow the next link:_
-<p align="center">
-    <a href="https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/1">Raspbian</a>
-</p>
-
-
+```
+  -Libraries for use the BMP085 and DHT22
+```
+```
+  -ThingSpeak
+```
 
 ### Installing🔧
 
 #### Clone
 
-- _Clone this repo to your local machine using_ `https://github.com/DarioCabas/TEMPLATE_EMAIL`
+- _Clone this repo to your local machine using_ `https://github.com/DarioCabas/IOT_RASPBERRY`
+
+- _If you need more information about how install raspbian in the raspberry, follow the next link:_
+<p align="center">
+    <a href="https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/1">Raspbian</a>
+</p>
+
+#### Enabled I2C 
+
+- _In the raspberry you need enable the I2C communication to use the BMP085 sensor that use this protocol, you can do the next steps:_
+- _In the command window you put the next command line:_
+
+```
+  sudo raspi-config
+```
+ _You can see the next window:_
+ 
+ <p align="center">
+    <img width="300" height="200" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/08/rc_cmd_main_interfacing.png" alt="Logo">
+</p>
+
+_Select the line in red and you can see the I2C option that you need enabled:_
+
+ <p align="center">
+    <img width="300" height="200" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/11/rc_cmd_interfacing_i2c.png" alt="Logo">
+</p>
+
+_Enter in Yes_
+ <p align="center">
+    <img width="300" height="200" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/11/rc_cmd_interfacing_i2c.png" alt="Logo">
+</p>
+
+_Enter in OK_
+ <p align="center">
+    <img width="300" height="200" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/11/rc_cmd_interfacing_i2c.png" alt="Logo">
+</p>
+
+_And Finally you reboot the system:_
+ <p align="center">
+    <img width="300" height="200" src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/11/rc_cmd_interfacing_i2c.png" alt="Logo">
+</p>
 
 ## Running the tests ⚙️
 
