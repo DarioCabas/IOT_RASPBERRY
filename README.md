@@ -16,7 +16,7 @@
 
 # IOT TEMPERATURE, PRESSURE AND HUMIDITY 
 
-_This is a short description about the content of my project. In this project I read three sensors one of temperature, another of humidity and finally one of pressure. We can talk about this sensors in the next lines. So this values of variables measured are send to the cloud, and we can see this data en the server of thingspeak that provide MATLAB for IOT Analytics, you can see all the information in the server and read that information if we need it._
+_This is a short description about the content of my project. In this project I read three sensors one of temperature, another of humidity and finally one of pressure. We can talk about this sensors in the next lines. So this values of variables measured are send to the cloud, and we can see this data en the server of thingspeak that provide MATLAB for IOT Analytics, you can see all the information in the server and read that information if we need it. In another hand we can write this values also in a CSV file that we can save in a SDcard_
 
 ## Getting Started🚀
 
@@ -112,11 +112,11 @@ _And Finally you reboot the system:_
 
 ## Running the tests ⚙️
 
-**Running index.html with firefox navigator**
+**Running prom.py**
 
 ![Recordit GIF](http://g.recordit.co/lbKzLLWMum.gif)
 
-**Template in the firefox navigator**
+**Crontan Schedule with envio.py**
 <p align="center">
     <img src="http://g.recordit.co/tAi3tcIfoo.gif" alt="Logo">
 
@@ -133,8 +133,9 @@ _If you want, you can use an editor of code with a live server and you can see t
 
 ## Built With🛠️
 
-* [HMTL](https://codigofacilito.com/articulos/que-es-html) - HyperText Markup Language
-* [CSS](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Cascading Style Sheets
+* [Python](https://www.python.org/) - Language
+* [Raspberry Pi](https://www.raspberrypi.org/) - Credit-card sized computer
+* [ThingSpeak](https://thingspeak.com/) - Data collection in the cloud
 
 
 ## Authors✒️
