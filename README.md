@@ -112,6 +112,12 @@ _And Finally you reboot the system:_
 
 ## Running the tests ⚙️
 
+**Sensors connected to the raspberry**
+ <p align="center">
+    <img width="500" height="400" src="img/raspberry.jpeg" alt="Logo">
+</p>
+
+
 **Running prom.py**
  <p align="center">
     <img width="800" height="500" src="img/data.jpeg" alt="Logo">
