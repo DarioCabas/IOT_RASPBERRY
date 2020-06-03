@@ -16,7 +16,7 @@
 
 # IOT TEMPERATURE, PRESSURE AND HUMIDITY 
 
-_This is a short description about the content of my project. In this project I read three sensors one of temperature, another of humidity and finally one of pressure. We can talk about this sensors in the next lines. So this values of variables measured are send to the cloud, and we can see this data en the server of thingspeak that provide MATLAB for IOT Analytics, you can see all the information in the server and read that information._
+_This is a short description about the content of my project. In this project I read three sensors one of temperature, another of humidity and finally one of pressure. We can talk about this sensors in the next lines. So this values of variables measured are send to the cloud, and we can see this data en the server of thingspeak that provide MATLAB for IOT Analytics, you can see all the information in the server and read that information if we need it._
 
 ## Getting Started🚀
 
@@ -26,7 +26,7 @@ _These instructions will get you a copy of the project up and running on your lo
 
 ## Prerequisites:clipboard:
 
-_You need to use an editor if you want, or only you download the files and execute the file named:_ 
+_You need to install :_ 
 
 ```
   index.html
