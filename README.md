@@ -146,7 +146,7 @@ _If you want, you can use an editor of code with a live server and you can see t
 
 ## Authors✒️
 
-* **Dario Cabascango** - *Initial work* - [TEMPLATE_EMAIL](https://github.com/DarioCabas)
+* **Dario Cabascango** - *Initial work* - [IOT_RASPBERRY](https://github.com/DarioCabas)
 
 
 ## License📄
@@ -162,7 +162,7 @@ _If you want, you can use an editor of code with a live server and you can see t
 
 _Dario Cabascango_  - _hz-hertzio@hotmail.com_ 
 
-_Project Link:_ _[https://github.com/DarioCabas/TEMPLATE_EMAIL](https://github.com/DarioCabas/TEMPLATE_EMAIL)_
+_Project Link:_ _[https://github.com/DarioCabas/IOT_RASPBERRY](https://github.com/DarioCabas/IOT_RASPBERRY)_
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
