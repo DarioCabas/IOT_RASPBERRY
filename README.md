@@ -52,6 +52,16 @@ Temperature and humidity sensor - DHT22
 
 </p>
 
+_The software that you need is:_ 
+
+```
+  Raspbian
+```
+_If you need more information about it, follow the next link:_
+
+```
+  https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/1
+```
 
 
 ### Installing🔧
