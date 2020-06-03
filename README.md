@@ -114,7 +114,7 @@ _And Finally you reboot the system:_
 
 **Sensors connected to the raspberry**
  <p align="center">
-    <img width="500" height="400" src="img/raspberry.jpeg" alt="Logo">
+    <img width="650" height="400" src="img/raspberry.jpg" alt="Logo">
 </p>
 
 
