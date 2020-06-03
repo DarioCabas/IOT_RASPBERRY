@@ -123,6 +123,12 @@ _And Finally you reboot the system:_
     <img width="800" height="500" src="img/data.jpeg" alt="Logo">
 </p>
 
+**CSV file with the data**
+ <p align="center">
+    <img width="400" height="400" src="img/Captura.PNG" alt="Logo">
+</p>
+
+
 **ThingSpeak**
  <p align="center">
     <img width="800" height="500" src="img/thing.jpeg" alt="Logo">
