@@ -131,11 +131,19 @@ _And Finally you reboot the system:_
 
 ## Deployment📦
 
-_If you want, you can use an editor of code with a live server and you can see the changes at the same time when you save the project:_
+_For the crontan that we use to run the envio.py file, you can access to this with the following line:_
 
-<p align="center">
-    <img width="100" height="100" src="/img" alt="Logo">
-</p>
+
+```
+  crontab -e
+```
+
+_And in this project I use in the linux environment the next line for run the envio.py in the crontab_
+
+```
+  */5 * * * * cd Desktop && /usr/bin/python envio.py
+```
+
 
 ## Built With🛠️
 
