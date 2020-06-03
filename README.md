@@ -113,13 +113,13 @@ _And Finally you reboot the system:_
 ## Running the tests ⚙️
 
 **Running prom.py**
+ <p align="center">
+    <img width="800" height="500" src="img/data.jpeg" alt="Logo">
+</p>
 
-![Recordit GIF](http://g.recordit.co/lbKzLLWMum.gif)
-
-**Crontan Schedule with envio.py**
-<p align="center">
-    <img src="http://g.recordit.co/tAi3tcIfoo.gif" alt="Logo">
-
+**ThingSpeak**
+ <p align="center">
+    <img width="800" height="500" src="img/thing.jpeg" alt="Logo">
 </p>
 
 
@@ -128,7 +128,7 @@ _And Finally you reboot the system:_
 _If you want, you can use an editor of code with a live server and you can see the changes at the same time when you save the project:_
 
 <p align="center">
-    <img width="100" height="100" src="http://g.recordit.co/TtbT6sYqv5.gif" alt="Logo">
+    <img width="100" height="100" src="/img" alt="Logo">
 </p>
 
 ## Built With🛠️
