@@ -45,7 +45,15 @@ _The hardware that you need is:_
 </p>
 
 ```
+Temperature and humidity sensor - DHT22
 ```
+<p align="center">
+    <img width="200" height="300" src="https://cdn-shop.adafruit.com/1200x900/385-00.jpg" alt="Logo">
+
+</p>
+
+
+
 ### Installing🔧
 
 #### Clone
