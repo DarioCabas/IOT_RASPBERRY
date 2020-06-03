@@ -26,12 +26,15 @@ _These instructions will get you a copy of the project up and running on your lo
 
 ## Prerequisites:clipboard:
 
-_You need to install :_ 
+_The hardware that you need is:_ 
 
 ```
-  index.html
+  Raspberry Pi
 ```
+<p align="center">
+    <img src="https://www.redeszone.net/app/uploads-redeszone.net/2019/05/Raspberry-Pi-Zero-con-GPIO.jpg" alt="Logo">
 
+</p>
 ### Installing🔧
 
 #### Clone
