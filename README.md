@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DarioCabas/ROS_Webpage">
-    <img src="https://www.flaticon.es/svg/vstatic/svg/4568/4568780.svg?token=exp=1619830500~hmac=c2eca656132848bd4d10f4846dd2fe31" alt="Logo" width="150" height="80"
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo" width="80" height="80">
   </a>
 </p>
 
